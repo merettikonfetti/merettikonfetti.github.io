@@ -1,0 +1,121 @@
+/* ELEMENTS */
+
+
+body{
+    font-family:lato;
+}
+
+nav{
+    text-align: right;
+    font-size: 15px;
+    font-weight: 400;  
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    list-style: none !important;
+}
+
+
+main{
+    text-align: center;
+    color: #1B1464;
+    font-size: 15px;
+}
+
+
+h2{
+    font-size: 18px;
+    margin: 3px;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 15px;
+    font-weight: 400;
+    margin: 4px;
+}
+
+p.projekt{
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 3px;
+    margin: auto;
+    width: 70%;
+}
+
+
+
+table{
+   margin: 0 auto;
+   width: 75%;
+}
+
+/* CLASSES */
+
+.menue{
+  list-style: none !important;
+}
+
+
+.info{
+    font-style: none;
+    font-weight: 300;
+}
+
+.partnerin {
+    text-align: center;
+}
+
+img.cover{
+    width: 60%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.coverprojekt{
+    width: 50%;
+    text-align: center;
+    margin-bottom: 5px !important;
+}
+
+.fliesstext{
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 3px;
+    margin: auto;
+    width: 70%;
+    list-style:lower-alpha;
+}
+
+section.projekt{
+margin-bottom: 50px;
+}
+
+.projekt-text{
+    width: 60%;
+    text-align: center;
+}
+
+.datenschutz{
+    text-align: justify;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.fixed-header, .fixed-footer{
+    width: 95%;
+    position: fixed;        
+    padding-right: 20px;
+}
+.fixed-header{
+    top: 0;
+}
+.fixed-footer{
+    bottom: 0;
+    font-size: 12px;
+    font-weight: 200;
+   }
+
+/* IDs */
+
+#logo{ width: 20%;}
